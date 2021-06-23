@@ -7,3 +7,6 @@ In that specific sentence we Find a key word
 There are many pre implemented libraries in python to do just that , rake is the best to Use.
 Our key word becomes our Answer.
 Thanks for viewing, more in the code cell
+
+# QandA.ipynb  ----------UPDATE
+QandA.ipynb , is the recent addition after testing transformers and genrating question with Answers from any text.
